@@ -4,7 +4,7 @@ function TestimonialCard() {
       <div className="card">
         <div className="card-header">
           <img
-            src="src/assets/profile-thumbnail.png"
+            src="/profile-thumbnail.png"
             alt="profile thumbnail"
             className="card-avatar"
           />
