@@ -54,3 +54,6 @@ main {
   text-overflow: ellipsis;
   overflow: hidden;
 }
+p {
+  margin: 0;
+}
